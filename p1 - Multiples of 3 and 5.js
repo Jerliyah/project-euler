@@ -13,7 +13,7 @@ See with console at repl.it
 https://repl.it/Eyrg/1
 */
 
-var n = 50;
+var n = 1000;
 var sum = 0;
 
 
